@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Rproj
+.history
+
+.DS_Store
+
+.sqlite
+.db
+
+graphs/*
